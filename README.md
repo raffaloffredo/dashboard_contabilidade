@@ -1,4 +1,4 @@
-# Dashboard Conabilidade
+# Dashboard Contabilidade
 <br/>
 
 <p align="center">
